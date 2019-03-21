@@ -1,0 +1,8 @@
+.mw-panel li{
+  list-style-type: none;
+}
+
+.mw-panel{
+  width: 168px;
+  background-color: 	 #f7f7f7;
+}
